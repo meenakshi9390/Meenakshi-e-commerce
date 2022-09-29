@@ -12,6 +12,6 @@
 <body>
 <div><p>${message}</p></div>
 <br>
-<button onclick="window.location.href='index.jsp'" class="btn btn-primary">Product Home page</button>
+<button onclick="window.location.href='index.jsp'" class="btn btn-secondary">Product Home page</button>
 </body>
 </html>

@@ -10,21 +10,18 @@
 <title>Products</title>
 <style type="text/css">
 
-table,tr,td,th{
-
-border: 2px solid blue;
-
-margin-left: auto;
-margin-right: auto;
-border-collapse: collapse;
+body{
+background-color:#FFFFCC;
+font-family: Gill Sans;
 }
+
 </style>
 </head>
 <body>
 	
 		<div>
 
-			<table>
+			<table class="table table-striped border">
 				<thead>
 					<tr>
 						<th>Order Id</th>
